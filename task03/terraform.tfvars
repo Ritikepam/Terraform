@@ -1,4 +1,4 @@
-rg_name             = "cmaz-9m9bm30bv-mod-rg"
+rg_name             = "cmaz-9m9bm0bv-mod3-rg"
 location            = "eastus"
 storageaccount_name = "cmaz9m9bm0bvsa"
 vnet_name           = "cmaz-9m9bm0bv-mod3-vnet"
