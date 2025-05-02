@@ -1,0 +1,7 @@
+rg_name             = "cmaz-f5n7jzgb-mod3-rg"
+location            = "eastus"
+storageaccount_name = "cmazf5n7jzgbsa"
+vnet_name           = "cmaz-f5n7jzgb-mod3-vnet"
+subnet1_name        = "frontend"
+subnet2_name        = "backend"
+student_email       = "shashwat_shandilya@epam.com"
